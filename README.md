@@ -1,2 +1,2 @@
-# SearchForAStar1016
+# SearchForAStar2016
 Simple vertical scrolling game, player can shoot and enemies spawn according to hard coded values. 
